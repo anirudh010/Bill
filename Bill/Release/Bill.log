@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Bill.cpp
+Bill.cpp(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Bill.cpp(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bill.vcxproj -> F:\Android\SVN\critique4you-code\sandbox\Bill\Release\Bill.exe
