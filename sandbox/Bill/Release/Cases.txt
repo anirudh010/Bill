@@ -1,0 +1,10 @@
+Customer
+NonGrocery 2333
+NonGrocery 1923
+NonGrocery 130
+NonGrocery 150
+Grocery 150
+Grocery 150
+Grocery 150
+
+

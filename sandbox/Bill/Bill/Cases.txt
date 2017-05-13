@@ -1,0 +1,10 @@
+Affiliate
+NonGrocery 233
+NonGrocery 190
+NonGrocery 130
+NonGrocery 150
+Grocery 150
+Grocery 150
+Grocery 150
+
+
